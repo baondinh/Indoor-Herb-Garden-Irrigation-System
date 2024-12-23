@@ -8,3 +8,7 @@ A microcontroller-based automated irrigation system designed for indoor herb gar
 - Customizable Settings: Allows users to adjust thresholds and schedules based on plant needs.
 - Power Efficiency: Designed to minimize energy and water usage.
 - User Interface (Optional): Integrates with a mobile app or web interface for monitoring and control.
+
+### Future Goals: 
+- Apartment herb garden
+- Camper van conversion garden
