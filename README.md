@@ -12,3 +12,4 @@ A microcontroller-based automated irrigation system designed for indoor herb gar
 ### Future Goals: 
 - Apartment herb garden
 - Camper van conversion garden
+- Controlled growing environment for succulents? 
