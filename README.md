@@ -12,7 +12,8 @@ A microcontroller-based automated irrigation system designed for indoor herb gar
 ### Future Goals: 
 - Apartment herb garden
 - Camper van conversion garden
-- Controlled growing environment for succulents? 
+- Controlled growing environment for succulents?
+- Complete this project during LEAP life and have a working prototype
 
 ### Components: 
 - Moisture sensor
@@ -24,3 +25,4 @@ A microcontroller-based automated irrigation system designed for indoor herb gar
   - Raspberry Pi Zero 2
 - Automatic Watering System Manager with Mini Water Pump for Arduino DIY
   - https://www.amazon.com/Mustpoint-Automatic-Watering-Manager-Arduino/dp/B0BM3NNV4Y?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3JG90J1GP6HGX&gQT=1
+
