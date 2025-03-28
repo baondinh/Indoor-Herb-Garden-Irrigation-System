@@ -14,6 +14,7 @@ A microcontroller-based automated irrigation system designed for indoor herb gar
 - Camper van conversion garden
 - Controlled growing environment for succulents?
 - Complete this project during LEAP life and have a working prototype
+- Revisiting Idea: Implementation with DragonBoard 410c?
 
 ### Components: 
 - Moisture sensor
